@@ -1,2 +1,1 @@
-# Work and projects portfolio
-
+# Work and projects
